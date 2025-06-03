@@ -172,26 +172,12 @@ terraform init && terraform apply
 
 ---
 
-## **🪐 Who It’s For**
-
-- JavaScript & TypeScript devs deploying cloud infra  
-- Teams needing reusable infra templates without complex DSLs  
-- Anyone looking to bring logic and maintainability to Terraform  
-
----
-
-## **📡 Roadmap**
-
-- [ ] **Astro Viewer** – Visualize HCL as constellation maps  
-- [ ] **Orbital Policies** – Custom JS validation shields  
-- [ ] **Meteorite Assimilation** – Convert `.tf` to `.js`  
-- [ ] **Launch-Ready CLI** – Harden CLI for production use  
-
----
-
-## **🤝 Contributing**
-
-We’re building AphelionJS for the future of dynamic infrastructure. Want to help us map the stars?
+## **🪐 Join the Cosmic Fleet**  
+**AphelionJS** is for teams who:  
+- 🌠 **JavaScript/TypeScript** ecosystems fuel their engines  
+- 🛰️ Want gradual Terraform adoption across galaxies  
+- 🌪️ Need dynamic config generation at warp speed  
+- 🔭 Require full HCL transparency through the telescope  
 
 ```bash
 git clone https://github.com/Aphelionjs/core
